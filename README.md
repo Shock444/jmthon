@@ -3,15 +3,12 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shock444/jmthon)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/pack)
 
 ## شكـرا لكـم 
 
 
-## المطـورين 
+this userbot is import of catuserbot and translate to arabic
 
-[jmthon source](https://t.me/jmthon)
+https://t.me/catuserbot_support
 
-[MUHAMMAD](https://t.me/RR9R7)
-
-[JASEM](https://t.me/SBB_B)
